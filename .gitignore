@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+# SQLite/lockfiles que às vezes aparecem (Copilot, etc.)
+*.db
+*.db-shm
+*.db-wal
+# Rider/JetBrains (se usar)
+.idea/
+*.sln.iml
