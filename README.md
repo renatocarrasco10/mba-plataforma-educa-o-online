@@ -1,2 +1,2 @@
-# mba-plataforma-educa-o-online
+# mba-plataforma-educacao-online
 Projeto MBA - Plataforma de Educação Online
