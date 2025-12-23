@@ -17,6 +17,11 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\src\AcademiaDev.Core\AcademiaDev.Core.csproj" />
+    <ProjectReference Include="..\..\src\AcademiaDev.GestaoAlunos.Domain\AcademiaDev.GestaoAlunos.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Using Include="Xunit" />
   </ItemGroup>
 
